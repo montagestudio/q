@@ -1,0 +1,21 @@
+{
+  "name": "q",
+  "version": "1.0",
+  "description": "Q using Q bluebird-q",
+  "homepage": "http://github.com/montagestudio/q/",
+  "author": "Benoit Marchant <benoit@montagestudio.com> (http://github.com/marchant/)",
+  "contributors": [
+    "Montage Studio"
+  ],
+  "bugs": {
+    "url": "http://github.com/montagestudio/q/issues"
+  },
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/montagestudio/q.git"
+  },
+  "dependencies": {
+    "bluebird-q": "~1.0.3"
+  }
+}
