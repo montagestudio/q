@@ -17,5 +17,6 @@
   },
   "dependencies": {
     "bluebird-q": "~1.0.3"
-  }
+},
+"main": "q.js"
 }
